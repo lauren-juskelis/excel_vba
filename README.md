@@ -1,2 +1,2 @@
 # excel_vba
-A repository for Excel VBA modules.
+This repository is for Excel VBA modules.
