@@ -1,0 +1,3 @@
+This module was originally sourced from ExtendOffice at the following link: https://www.extendoffice.com/documents/excel/3086-excel-delete-columns-based-on-header.html and edited to suit my needs.
+
+It loops through each cell in a given range and looks for a given value. When the value is present, the entire column is deleted. 
