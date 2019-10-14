@@ -1,4 +1,5 @@
-# Python script to extract the first six characters for each row in a column in Excel and delete all following characters.
+# Python script to extract only the first six characters from each cell in an entire column and 
+# overwrite the previous contents in Excel. Loops through many files in a directory.
 
 import openpyxl, os, re
 import pandas as pd
